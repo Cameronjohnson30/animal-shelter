@@ -7,7 +7,6 @@ Animal shelter project displaying  HTML & CSS styling
 Technologies Used
 * HMTL
 * CSS
-* Markdown
 
 Description
 This website displays information about animals currently up for adoption at a shelter. It was constructed with the guidance of Epicodus and was co-authored by a classmate Shelby Trodden, and Todd Pangilinan. The website does not currently incorporate javascript or associated libraries.
